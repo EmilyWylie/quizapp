@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #9B0505;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Georgia";
+}
+
+main {
+    display: flexbox;
+    text-align: center;
+    font-family: "Georgia";
+}
+
+div.intro {
+    margin-left: 200px;
+    margin-right: 200px;
+    border: solid; 
+    border-width: 6px; 
+    border-color: #1e209b;
+    background-color: #1e209b;
+  }
+
+button {
+        margin: 15px;
+        font-weight: 10px;
+
+}
+
+p {
+    padding: 20px;
+    margin: auto; 
+    border-radius: 10px;
+}
+
+/*
+body {
+    background-image: url("images/flag-with-rocks.jpg");
+    background-size: auto;
+}
+
+9B0505 - Crimson Red
+1E209B - Blue 
+*/
